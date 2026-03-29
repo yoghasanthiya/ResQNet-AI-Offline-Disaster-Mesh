@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.ResQNet" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/accent_teal</item>
+        <item name="colorSecondary">@color/accent_cyan</item>
+        <item name="android:colorBackground">@color/surface_background</item>
+        <item name="colorSurface">@color/surface_card</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:statusBarColor">@color/surface_background</item>
+        <item name="android:navigationBarColor">@color/surface_background</item>
+    </style>
+</resources>

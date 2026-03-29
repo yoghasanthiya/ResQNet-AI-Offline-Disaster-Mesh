@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="surface_background">#FF0F172A</color>
+    <color name="surface_card">#FF1E293B</color>
+    <color name="surface_card_alt">#FF172033</color>
+    <color name="text_primary">#FFE2E8F0</color>
+    <color name="text_secondary">#FF94A3B8</color>
+    <color name="status_banner">#FF152338</color>
+    <color name="priority_sos">#FFEF4444</color>
+    <color name="priority_medical">#FFFB7185</color>
+    <color name="priority_resource">#FF14B8A6</color>
+    <color name="priority_normal">#FF22D3EE</color>
+    <color name="alert_warning">#FFF59E0B</color>
+    <color name="accent_teal">#FF14B8A6</color>
+    <color name="accent_cyan">#FF22D3EE</color>
+    <color name="divider_dark">#FF334155</color>
+    <color name="ripple_teal">#4D14B8A6</color>
+    <color name="ripple_red">#4DEF4444</color>
+</resources>
